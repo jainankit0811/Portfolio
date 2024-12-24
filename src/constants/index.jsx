@@ -1,9 +1,13 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am a third-year Computer Science Engineering student with expertise in prompt engineering and development.As a front-end developer, I played a key role in a national hackathon runner-up team, building innovative projects from the ground up, including a React-Express application. I excel in solving problems, managing projects, and delivering impactful tech solutions with precision and creativity.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated third-year Computer Science Engineering student at Techno India NJR Institute of Technology, Udaipur, with a strong focus on software development, prompt engineering, and creating innovative tech solutions. Over the years, I've gained valuable experience by taking on challenging roles, including contributing to a national hackathon runner-up team and developing impactful, user-centric projects.
+
+I am passionate about building intuitive solutions in web development, and I have expertise in technologies like React.js, Node.js, Python, and Flutter. Some of my notable projects include Bookflow, an efficient library management system that significantly enhanced student accessibility, and TechieAI, an AI-powered platform that revolutionizes PC building with real-time, personalized hardware recommendations.
+
+With a relentless drive for continuous learning, I thrive in dynamic environments that allow me to apply my problem-solving skills to tackle complex challenges. I am constantly seeking opportunities to grow, collaborate, and contribute to projects that create meaningful, real-world impact.`;
 
 export const EXPERIENCES = [
   {
